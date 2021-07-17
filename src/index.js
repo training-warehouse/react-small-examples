@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './color-generator/index.css';
-import App from './color-generator/App';
+import './menu-react/index.css';
+import App from './menu-react/App';
 
 ReactDOM.render(
   <React.StrictMode>
