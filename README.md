@@ -4,3 +4,4 @@
 * [x] 旅游目的地（travel-destination）
 * [x] 幻灯片（slider-react）
 * [x] 记账本（expense-tracker）
+* [x] 分页导航（pagination）

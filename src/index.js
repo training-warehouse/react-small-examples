@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './expense-tracker/index.css';
-import App from './expense-tracker/App';
+import './pagination/index.css';
+import App from './pagination/App';
 
 ReactDOM.render(
   <React.StrictMode>
