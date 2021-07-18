@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './slider-react/index.css';
-import App from './slider-react/App';
+import './expense-tracker/index.css';
+import App from './expense-tracker/App';
 
 ReactDOM.render(
   <React.StrictMode>
