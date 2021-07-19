@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './pagination/index.css';
-import App from './pagination/App';
+import './snake-game/index.css';
+import App from './snake-game/App';
 
 ReactDOM.render(
   <React.StrictMode>

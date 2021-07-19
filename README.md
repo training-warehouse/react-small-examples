@@ -5,3 +5,4 @@
 * [x] 幻灯片（slider-react）
 * [x] 记账本（expense-tracker）
 * [x] 分页导航（pagination）
+* [x] 贪吃蛇（snake-game）
