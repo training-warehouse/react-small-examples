@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './snake-game/index.css';
-import App from './snake-game/App';
+import './file-upload/client/index.css';
+import App from './file-upload/client/App';
 
 ReactDOM.render(
   <React.StrictMode>
