@@ -7,3 +7,4 @@
 * [x] 分页导航（pagination）
 * [x] 贪吃蛇（snake-game）
 * [x] 文件上传（file-upload）
+* [x] 疫情追踪器（corona-tracker）
