@@ -1,11 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './hangman/index.css';
-import App from './hangman/App';
+import './shopping-cart/index.css';
+import App from './shopping-cart/App';
+
+import {AppProvider} from "./shopping-cart/contexts/context";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+    <React.StrictMode>
+        <AppProvider>
+            <App/>
+        </AppProvider>
+    </React.StrictMode>,
+    document.getElementById('root')
 );
