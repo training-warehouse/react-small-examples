@@ -8,3 +8,4 @@
 * [x] 贪吃蛇（snake-game）
 * [x] 文件上传（file-upload）
 * [x] 疫情追踪器（corona-tracker）
+* [x] 猜单词（hangman）
